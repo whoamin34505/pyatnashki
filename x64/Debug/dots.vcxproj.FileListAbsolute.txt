@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\dots\x64\Debug\dots.vcxproj.AssemblyReference.cache
+C:\Users\student\Desktop\dots\x64\Debug\dots.MyForm.resources
+C:\Users\student\Desktop\dots\x64\Debug\dots.vcxproj.GenerateResource.cache
+C:\Users\student\Desktop\dots\x64\Debug\dots.exe
+C:\Users\student\Desktop\dots\dots\x64\Debug\dots.vcxproj.AssemblyReference.cache
+C:\Users\student\Desktop\dots\dots\x64\Debug\dots.MyForm.resources
+C:\Users\student\Desktop\dots\dots\x64\Debug\dots.vcxproj.GenerateResource.cache
+C:\Users\student\Desktop\dots\dots\x64\Debug\dots.exe

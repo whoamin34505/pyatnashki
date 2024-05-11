@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\student\Desktop\dots\dots\MyForm.h(452,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  dots.vcxproj -> C:\Users\student\Desktop\dots\dots\x64\Debug\dots.exe

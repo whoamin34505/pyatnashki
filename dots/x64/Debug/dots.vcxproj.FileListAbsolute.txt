@@ -1,0 +1,3 @@
+C:\Users\kolgol\Desktop\dots\dots\dots\x64\Debug\dots.vcxproj.AssemblyReference.cache
+C:\Users\kolgol\Desktop\dots\dots\dots\x64\Debug\dots.MyForm.resources
+C:\Users\kolgol\Desktop\dots\dots\dots\x64\Debug\dots.vcxproj.GenerateResource.cache
